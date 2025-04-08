@@ -3,5 +3,4 @@
   <a href="https://twitter.com/bhazepol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhazepol" height="30" width="40" /></a>
 </p>
 
-<u>underlined text</u>
-
+[Working in private repositories.](https://www.beaubhp.com/)
